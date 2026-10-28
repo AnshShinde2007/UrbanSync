@@ -1,0 +1,6 @@
+{
+  "name": "UrbanSync",
+  "description": "Interactive city load coordinator demonstrating peak demand flattening by shifting flexible load across urban districts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
